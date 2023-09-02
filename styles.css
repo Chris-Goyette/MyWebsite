@@ -42,6 +42,30 @@ main {
     margin-bottom: 16px;
 }
 
+/* Add margin to the bottom of each project section */
+.project {
+    margin-bottom: 16px;
+  }
+  
+#projects {
+    margin-bottom: 32px;
+  }
+  
+/* Add margin to elements in the 'Contact' section */
+#contact p, #contact ul {
+    margin-bottom: 16px;
+}
+
+#contact ul li {
+    list-style-type: none;
+    margin-bottom: 8px;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #007bff;
+}
+
 
 /* Add some space below the headers */
 h2 {
@@ -54,7 +78,11 @@ footer {
     color: white;
     text-align: center;
     padding: 1em;
-    position: absolute;
-    bottom: 0;
     width: 100%;
+}
+
+/* Add margin-bottom to the main tag */
+main {
+    margin: 2em;
+    margin-bottom: 4em;  /* Increase bottom margin */
 }
