@@ -38,7 +38,7 @@ main {
 }
 
 /* Add margin to the bottom of each paragraph in the 'About' section */
-#about p {
+#about p, button {
     margin-bottom: 16px;
 }
 
