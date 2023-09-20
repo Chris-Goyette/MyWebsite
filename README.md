@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This website serves as a digital portfolio showcasing my skills, projects, and professional interests. It's a living document aimed at giving prospective employers and connections an idea of who I am and what I can do. As of August 2023, the website is in its initial stages, but stay tuned for more updates!
+This [website](https://chris-goyette.github.io/MyWebsite/) serves as a digital portfolio showcasing my skills, projects, and professional interests. It's a living document aimed at giving prospective employers and connections an idea of who I am and what I can do. As of August 2023, the website is in its initial stages, but stay tuned for more updates!
 
 ## Technologies Used
 
