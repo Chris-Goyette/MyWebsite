@@ -40,7 +40,7 @@ This [website](https://chris-goyette.github.io/MyWebsite/) serves as a digital p
 
 Feel free to reach out or contribute!
 
-- Email: [goyettecj@gmail.com](mailto:goyettecj@gmail.com)
+- Email: Please message me on LinkedIn for my personal email address. Thanks!
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chris-goyette/)
 - GitHub: [GitHub Profile](https://github.com/Chris-Goyette)
 
