@@ -30,6 +30,7 @@ This [website](https://chris-goyette.github.io/MyWebsite/) serves as a digital p
 
 ## Future Improvements
 
+- Need to fix/resize my cover photo
 - Enhanced UI/UX.
 - Integration of JavaScript functionalities.
 - Filling out the Projects section with real-world examples.
