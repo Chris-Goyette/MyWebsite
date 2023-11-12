@@ -4,6 +4,12 @@ body, h1, h2, h3, p, a {
     padding: 0;
 }
 
+.cover-photo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
 /* Make a background color */
 body {
     background-color: #f9f9f9;
