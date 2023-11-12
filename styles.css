@@ -7,7 +7,8 @@ body, h1, h2, h3, p, a {
 .cover-photo {
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 90%;
+
 }
 
 /* Make a background color */
@@ -19,7 +20,7 @@ body {
 
 /* Style your header */
 header {
-    background-color: #50b3a2;
+    background-color: black;
     color: white;
     text-align: center;
     padding: 1em;
