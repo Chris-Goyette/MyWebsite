@@ -66,13 +66,21 @@ main {
   }
   
 /* Add margin to elements in the 'Contact' section */
+#contact > h2 {
+    display: flex;
+    justify-content: center;
+}
+
 #contact ul {
-    margin-bottom: 16px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 0px;
 }
 
 #contact ul li {
     list-style-type: none;
-    margin-bottom: 8px;
+    
 }
 
 #contact a {
