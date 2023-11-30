@@ -66,7 +66,7 @@ main {
   }
   
 /* Add margin to elements in the 'Contact' section */
-#contact p, #contact ul {
+#contact ul {
     margin-bottom: 16px;
 }
 
